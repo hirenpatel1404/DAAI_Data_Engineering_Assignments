@@ -3,3 +3,6 @@
 .idea/
 Assignment6/train.csv
 Assignment6/data/
+
+__pycache__/
+Assignment9/logs/
